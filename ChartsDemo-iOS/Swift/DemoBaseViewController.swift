@@ -11,6 +11,7 @@
 #endif
 import Charts
 
+
 enum Option {
     case toggleValues
     case toggleIcons
